@@ -87,10 +87,24 @@ const Navbar = () => {
             >
               За нас
             </button>
-            <button className="text-white">Документација</button>
-            <button className="text-white">Get Quote</button>
-            <button className="text-white">Продукти</button>
-            <button className="text-white">Cart</button>
+            <button
+              className="text-white"
+              onClick={() => handleNavigation("/about")}
+            >
+              Документација
+            </button>
+            <button
+              className="text-white"
+              onClick={() => handleNavigation("/PCBDesignForm")}
+            >
+              Понуда
+            </button>
+            <button
+              className="text-white"
+              onClick={() => handleNavigation("/PCBDesignForm")}
+            >
+              Продукти
+            </button>
           </div>
         </div>
       )}
