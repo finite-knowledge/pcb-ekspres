@@ -23,9 +23,8 @@ const HeroSection = () => {
 
       {/* Dark overlay */}
       <div className="absolute inset-0 bg-black opacity-50"></div>
-
       {/* Content */}
-      <div className="relative container mx-auto h-full flex items-center">
+      <div className="relative container mx-auto h-full flex items-center px-4 sm:px-8">
         <div className="text-white max-w-2xl">
           <h1 className="text-5xl font-extrabold mb-4">
             Професионална изработка на PCB
