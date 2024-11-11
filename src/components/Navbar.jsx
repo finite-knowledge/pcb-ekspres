@@ -77,7 +77,7 @@ const Navbar = () => {
           <div className="flex flex-col space-y-4 p-4">
             <button
               className="text-white"
-              onClick={() => handleNavigation("/")}
+              onClick={() => handleNavigation("/home")}
             >
               Дома
             </button>
@@ -89,7 +89,7 @@ const Navbar = () => {
             </button>
             <button
               className="text-white"
-              onClick={() => handleNavigation("/about")}
+              onClick={() => handleNavigation("/documentation")}
             >
               Документација
             </button>
@@ -101,7 +101,7 @@ const Navbar = () => {
             </button>
             <button
               className="text-white"
-              onClick={() => handleNavigation("/PCBDesignForm")}
+              onClick={() => handleNavigation("/products")}
             >
               Продукти
             </button>
