@@ -1,8 +1,5 @@
 # PCB ЕКСПРЕС
 
-```
- IF YOU ARE COPYRIGHT OWNER OF ONE OF THE IMAGES OR PRODUCTS PLEASE OPEN ISSUE REQUEST FOR REMOVAL AND I WILL GLADLY REMOVE IT
-```
 
 ## Web страната е само DEMO не претставува вистински продукт
 
@@ -41,4 +38,9 @@
 
 
 ## WARNING: The webpage is just a mockup (demo) for one of my college classes, it does not represent a real service, everything is fictional and its for educational purposes only, the contents are scraped from the internet (MOSTLY THE PRODUCT IMAGES FROM GOOGLE SEARCH) and are just for demonstration purposes only, I dont make money out of this, Thank you.
+
+```
+ IF YOU ARE COPYRIGHT OWNER OF ONE OF THE IMAGES OR PRODUCTS PLEASE OPEN ISSUE REQUEST FOR REMOVAL AND I WILL GLADLY REMOVE IT
+```
+
 
